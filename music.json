@@ -1,0 +1,14 @@
+{
+    "musics": [{
+            "name": "WavinFlag",
+            "genre": "Pop",
+            "special": "Football"
+ 
+        },
+        {
+            "name": "Punyapaap",
+            "genre": "RAP",
+            "special": "Divine"
+        }
+    ]
+}
